@@ -1,0 +1,77 @@
+
+{
+  "project_info": {
+    "project_number": "808473473804",
+    "project_id": "the-tumaric-indian-cusine",
+    "storage_bucket": "the-tumaric-indian-cusine.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808473473804:android:71afc6e0f49bc3d7a78f29",
+        "android_client_info": {
+          "package_name": "com.example.the_tumeric_papplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808473473804-0d62uf3ufq0viknblfqdctth5c7ied8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.the_tumeric_papplication",
+            "certificate_hash": "51d6a7e003f6b2d9765ab975445d13e9a4219e68"
+          }
+        },
+        {
+          "client_id": "808473473804-2kn6sj3gtbr7aa7jmdpdijfmi62ealpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqZjSgAuSdPP6Ww5YqekR7Ip1bM6j9waI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808473473804-2kn6sj3gtbr7aa7jmdpdijfmi62ealpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808473473804:android:c942d22513cb8fdca78f29",
+        "android_client_info": {
+          "package_name": "com.example.tumeric_indian_cuisine_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808473473804-2kn6sj3gtbr7aa7jmdpdijfmi62ealpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqZjSgAuSdPP6Ww5YqekR7Ip1bM6j9waI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808473473804-2kn6sj3gtbr7aa7jmdpdijfmi62ealpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
